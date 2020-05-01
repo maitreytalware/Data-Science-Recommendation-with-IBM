@@ -1,6 +1,6 @@
 # Data Science Recommendation with IBM
  
-## Aim: 
+## 1. Aim: 
 Your project will be divided into the following tasks
 
 ### I. Exploratory Data Analysis
